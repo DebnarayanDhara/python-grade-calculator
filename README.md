@@ -8,6 +8,17 @@ A Python-based grade calculator that evaluates marks and assigns grades with pas
 - Pass/Fail evaluation
 - Handles invalid inputs
 
+## 📊 Grade Criteria
+
+| Marks Range | Grade |
+|------------|------|
+| 90 - 100   | Ex   |
+| 80 - 89    | A    |
+| 70 - 79    | B    |
+| 60 - 69    | C    |
+| 50 - 59    | D    |
+| Below 50   | F    |
+
 ## How to Run
 
 1. Install Python (3.x)
