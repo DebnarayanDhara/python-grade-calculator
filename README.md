@@ -8,7 +8,7 @@ A Python-based grade calculator that evaluates marks and assigns grades with pas
 - Pass/Fail evaluation
 - Handles invalid inputs
 
-## 📊 Grade Criteria
+## Grade Criteria
 
 | Marks Range | Grade |
 |------------|------|
